@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Simple Blog</title>
+    <link>https://thesimpleblog.github.io/</link>
+    <description>Recent content on The Simple Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Dec 2021 14:44:52 -0300</lastBuildDate><atom:link href="https://thesimpleblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the post title</title>
+      <link>https://thesimpleblog.github.io/posts/mypost/</link>
+      <pubDate>Mon, 06 Dec 2021 14:44:52 -0300</pubDate>
+      
+      <guid>https://thesimpleblog.github.io/posts/mypost/</guid>
+      <description>This is some content
+console.log(&amp;#34;Lucas Anselmo Dev&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
